@@ -21,6 +21,15 @@ ganized data leads to better decisions faster.
 - Power Query
 - Power Pivot
 - Data Modeling
+## Process used:-
+-  Data Import from the dataset into the main Bike rental analysis file
+-  Preprocess Dataset1,2 and 3.
+-  Merge Dataset1 into Dataset2 using Vlookup in excel sheets & in Power query using Merge Option
+-  Consolidate Dataset3 with Updated Dataset derived from merging Dataset1 & Dataset2 using Hlookup or simple paste option & in power query using append feature.
+-  Load the final Dataset-A into the Datamodel for final Data analysis some pivot table is created to analyse the data a support sheet is created in the xlsb file for the same.
+-  Charts has been Created thru the pivot tables & some slices has been added to create and interactive dashboard for better analysis
+-  Interpret the findings -  
+
 ## Key Insights
 - Demand Increases in Morning & Evening(Peak Hours are morning 8 to 10 AM & Evening 4 to 7PM
 - Rentals are higher on Working Days as Registered customers are higher in comparison of casual customers & major customers are expected to working persons who book bikes on Morning & evening hours.
