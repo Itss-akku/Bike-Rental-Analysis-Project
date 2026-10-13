@@ -1,4 +1,4 @@
-# BIKE RENTAL ANALYSIS PROJECT:
+# Bike Rental Analysis Project:
 
 ## Problem Statement:-
 Analyzing bike-sharing data helps understand how weather, time, and holidays affect bike rentals. This project uses Excel skills to clean, combine, and study datasets to fi nd useful patterns that improve business planning.
